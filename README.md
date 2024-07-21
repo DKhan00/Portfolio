@@ -1,5 +1,6 @@
 # About
-Data and Modeling Projects
+### Data and Modeling Projects
+This repository consists of my abilities to explore data, model data, and present my findings through a variety of different ways across multiple different coding languages.
 
 # Works/Projects
 ### COVID Case Study
