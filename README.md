@@ -24,5 +24,4 @@ Information9
 Information10
 
 # Contact
-Name: Danish Khan
 Email: Danish.K@outlook.com
