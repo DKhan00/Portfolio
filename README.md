@@ -2,25 +2,25 @@
 Data and Modeling Projects
 
 # Work/Projects
-### Project1
+### COVID Case Study
 Information1
-### Project2
+### Hello World
 Information2
-### Project3
+### Weather IO Program
 Information3
-### Project4
+### Consumerism EDA
 Information4
-### Project5
+### Housing EDA
 Information5
-### Project6
+### Pollution Data Wrangling
 Information6
-### Project7
+### Text Modeling
 Information7
-### Project8
+### Housing Modeling
 Information8
-### Project9
+### Recommender System
 Information9
-### Project10
+### Dashboard Analytics
 Information10
 
 # Contact
