@@ -1,7 +1,7 @@
 # About
 Data and Modeling Projects
 
-# Work/Projects
+# Works/Projects
 ### COVID Case Study
 Information1
 ### Hello World
